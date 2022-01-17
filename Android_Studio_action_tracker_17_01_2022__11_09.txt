@@ -1,0 +1,1103 @@
+Tracking started: 17.01.2022, 11:09.
+11:09:52.959: mouse clicked
+11:09:54.405: mouse clicked
+11:10:01.611: mouse clicked
+11:10:04.240: mouse clicked
+11:10:15.513: Backspace
+11:10:25.463: Backspace
+11:10:26.166: Backspace
+11:10:26.815: Backspace
+11:10:29.038: mouse clicked
+11:10:41.660: mouse clicked
+11:10:42.252: mouse clicked
+11:10:47.023: mouse clicked
+11:10:49.527: mouse clicked
+11:10:53.603: mouse clicked
+11:10:56.751: Enter
+11:11:00.104: typed 'а'
+11:11:00.238: typed 'ш'
+11:11:00.736: typed 'т'
+11:11:01.503: typed 'в'
+11:11:02.117: Backspace
+11:11:02.242: Backspace
+11:11:02.408: Backspace
+11:11:02.697: Backspace
+11:11:03.596: typed 'f'
+11:11:03.750: typed 'i'
+11:11:04.054: typed 'n'
+11:11:04.327: typed 'd'
+11:11:05.055: Enter
+11:11:07.122: typed 'B'
+11:11:07.333: typed 'u'
+11:11:08.315: Enter
+11:11:08.721: Backspace
+11:11:08.872: Backspace
+11:11:09.002: Backspace
+11:11:09.119: Backspace
+11:11:09.280: Backspace
+11:11:10.261: typed 'u'
+11:11:10.694: typed 't'
+11:11:10.749: typed 't'
+11:11:11.632: Enter
+11:11:12.439: Right
+11:11:12.839: Right
+11:11:14.190: typed 'R'
+11:11:14.757: typed '.'
+11:11:15.094: typed 'i'
+11:11:15.766: typed 'd'
+11:11:16.604: typed '.'
+11:11:18.546: typed 'b'
+11:11:18.694: typed 'u'
+11:11:19.420: Enter
+11:11:20.415: Right
+11:11:21.688: typed '.'
+11:11:21.950: typed 's'
+11:11:22.174: typed 'e'
+11:11:22.381: typed 't'
+11:11:23.986: Enter
+11:11:25.705: Enter
+11:11:30.962: mouse clicked
+11:11:32.063: mouse clicked
+11:12:37.635: mouse clicked
+11:12:38.988: mouse clicked
+11:12:44.371: mouse clicked
+11:12:46.809: typed 'v'
+11:12:46.951: typed 'a'
+11:12:47.463: typed 'l'
+11:12:47.630: typed ' '
+11:12:47.989: typed 'i'
+11:12:48.212: typed ' '
+11:12:49.038: typed '='
+11:12:49.146: typed ' '
+11:12:49.824: typed 'I'
+11:12:50.085: typed 'n'
+11:12:50.478: typed 'e'
+11:12:50.717: typed 'n'
+11:12:50.877: typed 't'
+11:12:51.978: Backspace
+11:12:52.129: Backspace
+11:12:52.273: Backspace
+11:12:54.199: typed 't'
+11:12:54.372: typed 'e'
+11:12:54.582: typed 'n'
+11:12:54.726: typed 't'
+11:12:56.171: Enter
+11:12:57.284: typed '('
+11:12:58.139: Right
+11:13:00.010: Left
+11:13:00.544: typed '"'
+11:13:14.724: mouse clicked
+11:13:15.643: mouse clicked
+11:13:16.316: Backspace
+11:13:16.615: Backspace
+11:13:17.871: Right
+11:13:18.556: Enter
+11:13:19.760: typed 'i'
+11:13:20.237: typed '.'
+11:13:20.525: typed 'a'
+11:13:20.837: typed 'c'
+11:13:21.159: typed 't'
+11:13:21.901: Enter
+11:13:22.841: typed ' '
+11:13:22.971: typed '='
+11:13:23.118: typed ' '
+11:13:24.864: typed 'I'
+11:13:25.109: typed 'n'
+11:13:25.736: Enter
+11:13:26.679: typed '.'
+11:13:28.679: typed 'A'
+11:13:29.013: typed 'c'
+11:13:29.320: typed 't'
+11:13:29.470: typed 'i'
+11:13:29.535: typed 'o'
+11:13:29.809: typed 'n'
+11:13:31.356: typed '_'
+11:13:32.048: typed 'B'
+11:13:34.317: Enter
+11:14:40.007: mouse clicked
+11:19:11.588: mouse clicked
+11:19:12.358: Enter
+11:19:20.518: mouse clicked
+11:19:21.106: Enter
+11:19:22.368: Enter
+11:19:22.652: Up
+11:19:23.729: typed 'p'
+11:19:23.870: typed 'r'
+11:19:24.030: typed 'i'
+11:19:24.543: typed 'v'
+11:19:24.687: typed 'a'
+11:19:24.783: typed 't'
+11:19:24.967: typed 'e'
+11:19:25.102: typed ' '
+11:19:27.514: typed 'l'
+11:19:27.719: typed 'a'
+11:19:28.023: typed 't'
+11:19:28.194: typed 'e'
+11:19:28.538: typed 'i'
+11:19:28.841: typed 'n'
+11:19:29.001: typed 'i'
+11:19:29.384: typed 't'
+11:19:30.250: Enter
+11:19:32.857: typed 'r'
+11:19:33.059: typed 'e'
+11:19:33.302: typed 'c'
+11:19:38.025: Down
+11:19:38.276: Down
+11:19:38.735: Down
+11:19:43.277: Enter
+11:19:47.196: mouse clicked
+11:19:52.173: Backspace
+11:19:53.379: mouse clicked
+11:19:54.269: Enter
+11:19:56.889: typed 'r'
+11:19:57.014: typed 'e'
+11:19:57.741: typed 'g'
+11:20:00.025: Down
+11:20:00.195: Down
+11:20:00.605: Down
+11:20:01.485: Enter
+11:20:03.601: typed 'r'
+11:20:03.742: typed 'e'
+11:20:05.029: Enter
+11:20:06.544: typed ','
+11:20:06.767: typed ' '
+11:20:11.800: typed 'i'
+11:20:35.284: mouse clicked
+11:20:38.772: mouse clicked
+11:20:40.002: Enter
+11:20:40.405: typed 'p'
+11:20:40.805: typed 'r'
+11:20:40.893: typed 'i'
+11:20:41.569: typed 'v'
+11:20:41.742: typed 't'
+11:20:42.751: Backspace
+11:20:42.869: typed 'a'
+11:20:43.636: Enter
+11:20:44.560: typed 'l'
+11:20:44.717: typed 'a'
+11:20:44.995: typed 't'
+11:20:45.094: typed 'e'
+11:20:45.776: Enter
+11:20:47.495: typed 'f'
+11:20:47.605: typed 'i'
+11:20:48.270: typed 'l'
+11:20:48.607: typed 't'
+11:20:48.726: typed 'e'
+11:20:48.903: typed 'r'
+11:20:50.890: Down
+11:20:51.068: Down
+11:20:51.285: Down
+11:20:51.861: Enter
+11:20:56.051: Backspace
+11:20:56.426: Backspace
+11:20:58.118: Enter
+11:21:04.525: mouse clicked
+11:21:05.297: Backspace
+11:21:06.846: typed 'f'
+11:21:06.957: typed 'i'
+11:21:07.618: Enter
+11:21:09.455: Right
+11:21:11.013: Delete
+11:21:11.112: Delete
+11:21:11.240: Delete
+11:21:11.376: Delete
+11:21:11.513: Delete
+11:21:11.817: Delete
+11:21:12.512: typed 'a'
+11:21:12.777: typed 'd'
+11:21:13.588: Enter
+11:21:17.143: Ctrl+X
+11:21:17.799: mouse clicked
+11:21:18.597: Ctrl+V
+11:21:19.455: mouse clicked
+11:21:20.169: Backspace
+11:21:20.315: Backspace
+11:21:20.521: Backspace
+11:21:21.494: Backspace
+11:21:22.871: Left
+11:21:23.110: Backspace
+11:21:24.457: typed 'f'
+11:21:24.526: typed 'i'
+11:21:24.714: typed 'l'
+11:21:25.162: Enter
+11:21:26.126: mouse clicked
+11:21:32.387: mouse clicked
+11:21:34.082: mouse clicked
+11:21:36.327: Enter
+11:21:36.597: Enter
+11:21:37.454: typed 'o'
+11:21:37.782: typed 'v'
+11:21:37.930: typed 'e'
+11:21:38.104: typed 'r'
+11:21:38.240: typed 'r'
+11:21:40.921: typed 'i'
+11:21:41.054: typed 'd'
+11:21:41.150: typed 'e'
+11:21:41.760: typed ' '
+11:21:43.604: typed 'f'
+11:21:43.966: typed 'u'
+11:21:44.189: typed 'n'
+11:21:44.344: typed ' '
+11:21:44.625: typed 'o'
+11:21:44.933: typed 'n'
+11:21:45.377: typed 'D'
+11:21:45.567: typed 'e'
+11:21:46.343: Enter
+11:21:50.885: mouse clicked
+11:21:51.744: Enter
+11:21:53.334: typed 'u'
+11:21:53.645: typed 'n'
+11:21:54.496: typed 'r'
+11:21:54.590: typed 'e'
+11:21:56.114: Down
+11:21:56.292: Down
+11:21:56.591: Down
+11:21:57.511: Enter
+11:21:58.520: typed 'r'
+11:21:58.638: typed 'e'
+11:21:59.658: Enter
+11:22:00.885: mouse clicked
+11:22:33.975: mouse clicked
+11:22:54.298: mouse clicked
+11:23:00.999: mouse clicked
+11:23:04.523: mouse clicked
+11:23:31.663: mouse clicked
+11:23:32.357: mouse clicked
+11:23:33.239: mouse clicked
+11:23:43.066: mouse clicked
+11:24:57.940: mouse clicked
+11:25:42.057: mouse clicked
+11:25:46.418: mouse clicked
+11:25:54.881: Enter
+11:25:56.134: typed '<'
+11:25:57.755: Down
+11:25:57.906: Down
+11:25:58.066: Down
+11:25:58.240: Down
+11:25:58.384: Down
+11:25:58.519: Down
+11:25:59.138: Enter
+11:26:04.231: mouse clicked
+11:26:06.079: typed '.'
+11:26:08.346: Backspace
+11:26:09.839: mouse clicked
+11:26:10.708: typed '.'
+11:26:12.655: typed 'M'
+11:26:12.990: typed 'y'
+11:26:13.429: typed 'R'
+11:26:13.639: typed 'e'
+11:26:14.129: typed 'c'
+11:26:15.030: typed 'i'
+11:26:15.823: typed 'e'
+11:26:16.173: typed 'v'
+11:26:16.301: typed 'e'
+11:26:16.438: typed 'r'
+11:26:19.295: mouse clicked
+11:26:20.682: mouse clicked
+11:26:21.642: mouse clicked
+11:26:41.980: mouse clicked
+11:26:45.209: mouse clicked
+11:26:47.529: Enter
+11:26:51.422: typed '<'
+11:26:52.734: typed '/'
+11:26:54.917: Left
+11:26:55.068: Left
+11:26:55.392: Right
+11:26:55.794: Backspace
+11:26:55.951: Backspace
+11:26:56.073: Backspace
+11:26:56.585: Backspace
+11:26:56.612: Backspace
+11:26:56.644: Backspace
+11:26:56.675: Backspace
+11:26:56.865: Backspace
+11:26:56.985: Backspace
+11:26:57.129: Backspace
+11:26:57.264: Backspace
+11:26:58.046: typed 'r'
+11:26:58.151: typed 'e'
+11:26:58.440: typed 'c'
+11:26:58.591: typed 'e'
+11:26:59.982: typed 'i'
+11:27:00.622: typed 'v'
+11:27:00.735: typed 'e'
+11:27:00.844: typed 'r'
+11:27:02.760: mouse clicked
+11:27:03.295: mouse clicked
+11:27:04.028: mouse clicked
+11:27:04.825: Left
+11:27:05.100: Tab
+11:27:06.027: mouse clicked
+11:27:15.250: Backspace
+11:27:22.300: mouse clicked
+11:27:24.459: mouse clicked
+11:27:24.739: Backspace
+11:27:26.464: mouse clicked
+11:27:28.132: mouse clicked
+11:27:29.009: Ctrl+Z
+11:27:29.476: Ctrl+Z
+11:27:29.864: Ctrl+Z
+11:27:30.254: Ctrl+Z
+11:27:30.640: Ctrl+Z
+11:27:31.015: Ctrl+Z
+11:27:31.826: Ctrl+Z
+11:27:33.575: Ctrl+Z
+11:27:35.007: mouse clicked
+11:27:37.312: Ctrl+Z
+11:27:37.732: Ctrl+Z
+11:27:38.225: Ctrl+Z
+11:27:39.266: Ctrl+Z
+11:27:39.489: Ctrl+Z
+11:27:39.705: Ctrl+Z
+11:27:39.921: Ctrl+Z
+11:27:40.415: Ctrl+Z
+11:27:40.713: Ctrl+Z
+11:27:41.032: Ctrl+Z
+11:27:41.327: Ctrl+Z
+11:27:41.711: Ctrl+Z
+11:27:42.861: mouse clicked
+11:27:45.531: mouse clicked
+11:28:22.093: mouse clicked
+11:28:22.256: mouse clicked
+11:28:23.533: mouse clicked
+11:28:28.587: mouse clicked
+11:28:29.548: mouse clicked
+11:28:45.999: mouse clicked
+11:28:50.220: mouse clicked
+11:28:51.943: Enter
+11:28:52.912: typed '<'
+11:28:53.603: Enter
+11:28:54.968: Enter
+11:28:55.728: Right
+11:28:59.385: mouse clicked
+11:29:01.719: Enter
+11:29:02.612: mouse clicked
+11:29:02.996: Enter
+11:29:07.200: Backspace
+11:29:08.471: Enter
+11:29:10.342: typed '>'
+11:29:11.821: Backspace
+11:29:12.622: Backspace
+11:29:13.853: Tab
+11:29:16.133: mouse clicked
+11:29:16.669: mouse clicked
+11:29:22.012: Ctrl+C
+11:29:22.630: mouse clicked
+11:29:23.164: Enter
+11:29:23.406: Ctrl+V
+11:29:24.953: Enter
+11:29:29.980: mouse clicked
+11:29:31.975: Enter
+11:29:32.390: typed '>'
+11:29:33.013: Backspace
+11:29:33.478: typed '<'
+11:29:34.225: Enter
+11:29:37.714: Enter
+11:29:39.638: typed '<'
+11:29:39.975: typed 'a'
+11:29:41.415: Backspace
+11:29:42.131: mouse clicked
+11:29:44.274: Ctrl+C
+11:29:45.909: Ctrl+V
+11:29:47.519: mouse clicked
+11:29:48.469: Tab
+11:29:49.435: mouse clicked
+11:29:51.406: typed '>'
+11:29:52.218: Backspace
+11:29:54.556: mouse clicked
+11:29:55.295: typed '>'
+11:29:56.744: Enter
+11:29:58.964: Ctrl+X
+11:29:59.486: mouse clicked
+11:30:00.106: Ctrl+V
+11:30:00.645: mouse clicked
+11:30:01.287: Backspace
+11:30:01.561: Backspace
+11:30:11.619: Ctrl+V
+11:30:14.926: mouse clicked
+11:30:21.169: mouse clicked
+11:30:23.515: mouse clicked
+11:31:19.336: mouse clicked
+11:32:15.099: mouse clicked
+11:32:15.762: mouse clicked
+11:32:32.403: Backspace
+11:33:22.967: mouse clicked
+11:33:23.809: mouse clicked
+11:33:24.943: typed 'S'
+11:33:25.333: typed 't'
+11:33:25.525: typed 'r'
+11:33:25.605: typed 'i'
+11:33:28.321: typed 'n'
+11:33:28.501: typed 'g'
+11:33:29.072: typed 'B'
+11:33:29.256: typed 'u'
+11:33:30.605: Down
+11:33:32.009: Enter
+11:33:33.042: typed '.'
+11:33:35.497: Backspace
+11:33:42.622: typed '('
+11:33:43.594: Right
+11:33:44.472: typed '.'
+11:33:44.750: typed 'a'
+11:33:45.062: typed 'p'
+11:33:45.174: typed 'p'
+11:33:46.487: typed 'l'
+11:33:46.621: typed 'a'
+11:33:47.047: typed 'y'
+11:33:48.859: Backspace
+11:33:48.982: Backspace
+11:33:50.215: typed 'y'
+11:33:51.174: Enter
+11:33:52.098: Enter
+11:33:54.502: typed 'a'
+11:33:54.645: typed 'p'
+11:33:54.774: typed 'p'
+11:33:59.360: typed 'e'
+11:33:59.719: typed 'n'
+11:33:59.943: typed 'd'
+11:34:00.502: typed '('
+11:34:07.991: typed '"'
+11:34:10.390: typed 'A'
+11:34:11.198: typed 'c'
+11:34:12.182: typed 't'
+11:34:12.310: typed 'i'
+11:34:12.391: typed 'o'
+11:34:12.662: typed 'n'
+11:34:14.495: typed ':'
+11:34:14.598: typed ' '
+11:34:16.415: typed '$'
+11:34:18.654: typed '{'
+11:34:19.725: typed 'i'
+11:34:19.974: typed 'n'
+11:34:20.245: typed 't'
+11:34:20.342: typed 'e'
+11:34:21.003: Enter
+11:34:22.183: typed ','
+11:34:22.490: Backspace
+11:34:22.703: typed '.'
+11:34:24.619: Enter
+11:34:25.923: Right
+11:34:28.727: typed '\'
+11:34:30.207: typed 'n'
+11:34:31.914: Right
+11:34:32.728: Right
+11:34:37.038: Enter
+11:34:39.215: typed 't'
+11:34:39.326: typed 'o'
+11:34:41.264: typed 'S'
+11:34:41.823: typed 't'
+11:34:41.983: typed 'r'
+11:34:42.554: Enter
+11:34:44.887: typed '.'
+11:34:45.053: typed 'a'
+11:34:45.397: typed 'l'
+11:34:46.585: Down
+11:34:46.929: Enter
+11:34:47.880: Enter
+11:34:49.305: Backspace
+11:34:50.391: typed ' '
+11:34:50.571: typed 'l'
+11:34:50.734: typed 'o'
+11:34:51.301: typed 'g'
+11:34:51.831: typed ' '
+11:34:52.853: typed '-'
+11:34:53.221: typed '>'
+11:34:53.784: Enter
+11:34:55.879: typed 'L'
+11:34:56.045: typed 'o'
+11:34:56.679: typed 'g'
+11:34:57.441: Enter
+11:34:59.256: typed '.'
+11:34:59.665: typed 'i'
+11:35:01.919: typed '('
+11:35:03.969: typed '"'
+11:35:13.775: typed 'A'
+11:35:14.959: typed 'c'
+11:35:15.414: typed 't'
+11:35:15.543: typed 'i'
+11:35:15.629: typed 'o'
+11:35:16.552: typed 'n'
+11:35:18.238: typed 'B'
+11:35:18.646: typed 'a'
+11:35:19.659: Backspace
+11:35:20.229: Backspace
+11:35:21.091: Backspace
+11:35:21.268: Backspace
+11:35:21.416: Backspace
+11:35:21.552: Backspace
+11:35:21.688: Backspace
+11:35:21.924: Backspace
+11:35:22.672: typed 'M'
+11:35:23.070: typed 'y'
+11:35:23.501: typed 'R'
+11:35:23.838: typed 'e'
+11:35:25.893: typed 'c'
+11:35:26.078: typed 'e'
+11:35:26.470: typed 'i'
+11:35:26.817: typed 'v'
+11:35:26.918: typed 'e'
+11:35:27.102: typed 'r'
+11:35:27.582: typed 'A'
+11:35:27.886: typed 'c'
+11:35:28.181: typed 't'
+11:35:28.999: typed 'i'
+11:35:29.054: typed 'o'
+11:35:29.350: typed 'n'
+11:35:30.297: Down
+11:35:31.248: Left
+11:35:31.776: Left
+11:35:34.806: typed ','
+11:35:35.022: typed ' '
+11:35:35.239: typed 'l'
+11:35:35.382: typed 'o'
+11:35:35.711: typed 'g'
+11:35:37.261: Enter
+11:35:37.924: mouse clicked
+11:35:41.571: mouse clicked
+11:36:00.550: Backspace
+11:36:00.662: typed ' '
+11:36:00.815: typed '='
+11:36:00.919: typed ' '
+11:36:02.591: typed 'M'
+11:36:04.278: typed 'y'
+11:36:05.773: Enter
+11:36:07.383: typed '('
+11:36:09.139: mouse clicked
+11:36:10.132: Backspace
+11:36:10.848: Backspace
+11:36:11.637: mouse clicked
+11:36:24.888: mouse clicked
+11:36:27.867: mouse clicked
+11:36:44.360: mouse clicked
+11:36:47.596: mouse clicked
+11:37:03.671: Windows
+11:37:14.385: Backspace
+11:37:14.771: Backspace
+11:37:16.821: Enter
+11:37:19.775: typed 'v'
+11:37:19.894: typed 'a'
+11:37:20.190: typed 'l'
+11:37:20.374: typed ' '
+11:37:21.510: typed 'f'
+11:37:21.703: typed 'i'
+11:37:21.870: typed 'l'
+11:37:22.189: typed 't'
+11:37:22.294: typed 'e'
+11:37:22.462: typed 'r'
+11:37:22.647: typed ' '
+11:37:23.831: typed '='
+11:37:23.934: typed ' '
+11:37:25.047: typed 'I'
+11:37:25.262: typed 'n'
+11:37:25.517: typed 't'
+11:37:25.612: typed 'e'
+11:37:26.501: Down
+11:37:26.775: Enter
+11:37:28.391: typed '('
+11:37:36.003: mouse clicked
+11:37:36.935: typed 'C'
+11:37:37.093: typed 'o'
+11:37:38.759: typed 'n'
+11:37:38.878: typed 'n'
+11:37:42.120: typed 'e'
+11:37:42.302: typed 'c'
+11:37:42.632: typed 't'
+11:37:42.790: typed 'i'
+11:37:49.999: typed 'v'
+11:37:50.150: typed 'i'
+11:37:50.478: typed 't'
+11:37:50.638: typed 'y'
+11:37:52.309: Down
+11:37:52.477: Down
+11:37:52.978: Enter
+11:37:54.703: typed '.'
+11:37:55.222: typed 'C'
+11:37:55.815: typed 'o'
+11:37:58.404: Enter
+11:37:59.831: Backspace
+11:37:59.985: Backspace
+11:38:00.139: Backspace
+11:38:00.264: Backspace
+11:38:00.416: Backspace
+11:38:00.535: Backspace
+11:38:00.675: Backspace
+11:38:01.175: Backspace
+11:38:01.205: Backspace
+11:38:01.252: Backspace
+11:38:01.285: Backspace
+11:38:01.315: Backspace
+11:38:01.480: Backspace
+11:38:01.650: Backspace
+11:38:02.163: Backspace
+11:38:02.194: Backspace
+11:38:02.224: Backspace
+11:38:02.255: Backspace
+11:38:02.289: Backspace
+11:38:02.441: Backspace
+11:38:02.616: Backspace
+11:38:29.691: mouse clicked
+11:38:32.294: typed 'C'
+11:38:32.504: typed 'o'
+11:38:33.623: Up
+11:38:34.317: Enter
+11:38:36.227: Right
+11:38:37.542: typed '.'
+11:38:38.918: typed 'a'
+11:38:39.165: typed 'p'
+11:38:39.286: typed 'p'
+11:38:39.783: Enter
+11:38:41.100: Enter
+11:38:48.847: mouse clicked
+11:38:49.533: mouse clicked
+11:38:50.770: Backspace
+11:38:50.921: Backspace
+11:38:51.049: Backspace
+11:38:51.196: Backspace
+11:38:51.321: Backspace
+11:38:51.458: Backspace
+11:38:51.602: Backspace
+11:38:51.931: Backspace
+11:38:55.066: Ctrl+X
+11:38:55.563: mouse clicked
+11:38:56.276: Ctrl+V
+11:39:01.367: mouse clicked
+11:39:17.135: mouse clicked
+11:39:18.473: mouse clicked
+11:39:22.715: mouse clicked
+11:39:23.492: mouse clicked
+11:39:25.500: mouse clicked
+11:39:30.627: Ctrl+C
+11:39:31.297: mouse clicked
+11:39:31.816: Ctrl+V
+11:39:44.455: mouse clicked
+11:40:24.467: mouse clicked
+11:40:26.367: mouse clicked
+11:40:36.028: mouse clicked
+11:40:41.599: mouse clicked
+11:41:02.676: mouse clicked
+11:41:09.911: mouse clicked
+11:41:12.913: mouse clicked
+11:41:17.672: mouse clicked
+11:41:19.321: Backspace
+11:41:20.071: typed 'd'
+11:41:21.361: mouse clicked
+11:41:23.634: mouse clicked
+11:41:24.561: mouse clicked
+11:41:25.622: mouse clicked
+11:41:40.649: mouse clicked
+11:41:46.333: typed 'i'
+11:41:46.783: mouse clicked
+11:41:47.729: mouse clicked
+11:41:48.705: mouse clicked
+11:41:49.255: mouse clicked
+11:46:15.709: mouse clicked
+11:46:46.200: mouse clicked
+11:46:49.987: Enter
+11:46:50.107: Enter
+11:46:50.254: Enter
+11:46:50.521: Up
+11:46:50.720: Up
+11:46:51.945: Ctrl+V
+11:46:59.099: mouse clicked
+11:47:02.497: mouse clicked
+11:47:36.241: mouse clicked
+11:47:37.418: mouse clicked
+11:47:38.554: Enter
+11:47:38.686: Enter
+11:47:39.087: Up
+11:47:39.696: Ctrl+V
+11:47:57.981: mouse clicked
+11:48:04.947: mouse clicked
+11:48:20.549: mouse clicked
+11:48:27.480: Left
+11:48:27.831: Left
+11:48:28.264: typed ' '
+11:48:32.081: Left
+11:48:32.631: Right
+11:48:32.915: Backspace
+11:48:33.352: Left
+11:48:33.743: Left
+11:48:34.177: Left
+11:48:35.634: Backspace
+11:48:36.134: Backspace
+11:48:36.166: Backspace
+11:48:36.196: Backspace
+11:48:36.228: Backspace
+11:48:36.259: Backspace
+11:48:36.289: Backspace
+11:48:36.336: Backspace
+11:48:36.366: Backspace
+11:48:36.579: Backspace
+11:48:36.727: Backspace
+11:48:36.865: Backspace
+11:48:36.991: Backspace
+11:48:38.590: typed 'b'
+11:48:38.726: typed 'a'
+11:48:39.016: typed 't'
+11:48:39.940: Enter
+11:48:41.039: mouse clicked
+11:48:42.252: mouse clicked
+11:48:50.611: mouse clicked
+11:48:51.151: mouse clicked
+11:48:51.663: mouse clicked
+11:48:52.087: mouse clicked
+11:49:11.466: mouse clicked
+11:49:19.206: typed 'B'
+11:49:19.470: typed 'a'
+11:49:19.686: typed 't'
+11:49:19.814: typed 't'
+11:49:19.926: typed 'e'
+11:49:20.078: typed 'r'
+11:49:20.342: typed 'y'
+11:49:21.883: mouse clicked
+11:49:27.218: mouse clicked
+11:49:33.152: mouse clicked
+11:49:34.274: Backspace
+11:49:34.415: Backspace
+11:49:34.554: Backspace
+11:49:34.695: Backspace
+11:49:35.495: Backspace
+11:49:36.414: typed 'I'
+11:49:36.614: typed 'n'
+11:49:36.887: typed 't'
+11:49:37.799: Enter
+11:49:39.313: mouse clicked
+11:49:45.086: typed 'I'
+11:49:45.309: typed 'n'
+11:49:45.600: typed 't'
+11:49:46.762: Enter
+11:49:50.463: mouse clicked
+11:49:55.027: mouse clicked
+11:49:55.782: typed '?'
+11:50:01.679: Backspace
+11:50:02.273: mouse clicked
+11:50:03.708: mouse clicked
+11:50:18.200: mouse clicked
+11:50:20.563: mouse clicked
+11:50:22.033: typed ' '
+11:50:24.622: typed '%'
+11:50:28.526: Backspace
+11:50:29.440: mouse clicked
+11:50:30.850: mouse clicked
+11:50:49.728: mouse clicked
+11:50:50.319: mouse clicked
+11:50:51.686: mouse clicked
+11:50:52.148: mouse clicked
+11:50:52.792: Backspace
+11:50:54.264: mouse clicked
+11:50:55.106: mouse clicked
+11:51:21.070: mouse clicked
+11:51:23.574: mouse clicked
+11:51:24.522: mouse clicked
+11:52:28.724: mouse clicked
+11:52:37.857: mouse clicked
+11:52:40.635: mouse clicked
+11:52:42.078: mouse clicked
+11:52:44.174: mouse clicked
+11:52:44.835: mouse clicked
+11:52:45.855: mouse clicked
+11:52:46.414: mouse clicked
+11:53:30.074: mouse clicked
+11:55:31.199: mouse clicked
+11:55:45.587: mouse clicked
+11:55:48.887: mouse clicked
+11:55:50.063: mouse clicked
+11:55:59.429: mouse clicked
+11:58:04.362: mouse clicked
+11:58:05.784: mouse clicked
+11:58:12.650: mouse clicked
+11:58:30.641: mouse clicked
+11:58:31.829: mouse clicked
+11:58:33.291: mouse clicked
+11:58:45.069: mouse clicked
+11:58:50.164: mouse clicked
+11:58:53.886: Enter
+11:58:54.888: typed '<'
+11:58:55.861: Enter
+11:58:58.900: Enter
+11:59:00.286: typed '>'
+11:59:03.993: Ctrl+Z
+11:59:05.071: typed ' '
+11:59:05.551: typed '?'
+11:59:06.360: Backspace
+11:59:06.774: typed '/'
+11:59:07.176: typed '?'
+11:59:07.828: Backspace
+11:59:08.356: Enter
+11:59:12.417: typed '<'
+11:59:12.801: typed 'u'
+11:59:13.449: Enter
+11:59:16.783: typed 'S'
+11:59:16.934: typed 'M'
+11:59:17.046: typed 'S'
+11:59:18.165: Down
+11:59:18.516: Down
+11:59:18.877: Down
+11:59:20.175: Enter
+11:59:21.855: typed '/'
+11:59:24.755: mouse clicked
+11:59:25.623: mouse clicked
+11:59:33.533: mouse clicked (in 'New Android Component' dialog)
+11:59:36.659: Backspace
+11:59:38.505: Left
+11:59:38.703: Left
+11:59:38.858: Left
+11:59:39.358: Left
+11:59:39.405: Left
+11:59:39.436: Left
+11:59:39.468: Left
+11:59:39.498: Left
+11:59:39.654: Left
+11:59:40.048: Right
+11:59:40.958: typed 'S'
+11:59:41.127: typed 'M'
+11:59:41.575: typed 'S'
+12:00:04.455: mouse clicked
+12:00:04.631: mouse clicked
+12:00:05.494: mouse clicked
+12:00:06.030: mouse clicked
+12:00:06.202: mouse clicked
+12:00:16.932: mouse clicked
+12:00:20.946: Enter
+12:00:33.319: Ctrl+C
+12:00:34.972: mouse clicked
+12:00:35.659: Ctrl+V
+12:00:55.744: Ctrl+V
+12:00:56.263: mouse clicked
+12:01:07.206: mouse clicked
+12:01:11.015: Ctrl+C
+12:01:11.587: mouse clicked
+12:01:12.376: Enter
+12:01:12.631: Ctrl+V
+12:01:13.959: mouse clicked
+12:01:14.876: Tab
+12:01:17.350: Ctrl+C
+12:01:19.100: mouse clicked
+12:01:19.857: Enter
+12:01:20.167: Ctrl+V
+12:01:21.372: mouse clicked
+12:01:26.748: mouse clicked
+12:01:30.976: Backspace
+12:05:27.995: mouse clicked
+12:05:36.815: typed 'i'
+12:05:36.941: typed 'f'
+12:05:38.414: typed '('
+12:05:39.438: typed 'i'
+12:05:39.622: typed 'n'
+12:05:40.948: Enter
+12:05:43.598: typed '.'
+12:05:44.942: typed 'g'
+12:05:45.070: typed 'e'
+12:05:45.222: typed 't'
+12:05:46.687: typed 'A'
+12:05:47.031: typed 'c'
+12:05:47.608: Enter
+12:05:56.522: typed ' '
+12:05:57.675: Backspace
+12:05:59.048: typed '('
+12:06:00.157: Backspace
+12:06:00.320: Backspace
+12:06:00.827: Backspace
+12:06:00.859: Backspace
+12:06:00.888: Backspace
+12:06:00.920: Backspace
+12:06:01.080: Backspace
+12:06:02.182: typed 'g'
+12:06:02.338: typed 'e'
+12:06:02.415: typed 't'
+12:06:04.095: Up
+12:06:04.322: Up
+12:06:04.999: Down
+12:06:05.345: Down
+12:06:05.861: Backspace
+12:06:06.371: Backspace
+12:06:06.397: Backspace
+12:06:07.729: typed 'a'
+12:06:08.446: typed 'c'
+12:06:10.032: Enter
+12:06:12.018: typed ' '
+12:06:12.142: typed '='
+12:06:12.313: typed ' '
+12:06:13.772: Backspace
+12:06:13.921: Backspace
+12:06:14.280: Backspace
+12:06:15.720: typed '.'
+12:06:19.389: Down
+12:06:19.564: Down
+12:06:19.712: Down
+12:06:19.896: Down
+12:06:20.474: Down
+12:06:20.913: Enter
+12:06:29.335: typed '"'
+12:06:34.231: Ctrl+V
+12:06:35.652: Ctrl+Z
+12:06:36.965: mouse clicked
+12:06:38.607: mouse clicked
+12:06:44.890: Ctrl+C
+12:06:45.832: mouse clicked
+12:06:46.992: Ctrl+V
+12:06:48.674: mouse clicked
+12:06:52.565: mouse clicked
+12:06:55.831: typed '{'
+12:06:56.128: Enter
+12:08:20.171: mouse clicked
+12:08:24.927: typed 'B'
+12:08:25.898: Backspace
+12:08:30.246: typed 'v'
+12:08:30.398: typed 'a'
+12:08:30.654: typed 'l'
+12:08:31.989: typed ' '
+12:08:34.807: typed 'b'
+12:08:35.017: typed 'u'
+12:08:37.303: typed 'n'
+12:08:37.543: typed 'd'
+12:08:37.767: typed 'l'
+12:08:37.960: typed 'e'
+12:08:38.752: typed ' '
+12:08:38.934: typed '-'
+12:08:39.442: Backspace
+12:08:40.118: typed '='
+12:08:40.752: typed 'B'
+12:08:41.007: typed 'u'
+12:08:43.902: typed 'n'
+12:08:44.632: typed 'd'
+12:08:45.327: typed 'l'
+12:08:45.888: Enter
+12:08:46.802: Left
+12:08:46.953: Left
+12:08:47.092: Left
+12:08:47.209: Left
+12:08:47.345: Left
+12:08:47.473: Left
+12:08:47.807: typed ' '
+12:08:48.768: mouse clicked
+12:08:50.828: mouse clicked
+12:08:52.071: typed '('
+12:08:54.222: mouse clicked
+12:08:55.588: Enter
+12:09:00.270: typed 'b'
+12:09:00.502: typed 'u'
+12:09:00.969: Enter
+12:09:01.455: typed ' '
+12:09:01.735: typed '='
+12:09:01.857: typed ' '
+12:09:02.999: typed 'i'
+12:09:03.262: typed 'n'
+12:09:03.670: typed 't'
+12:09:03.811: typed 'e'
+12:09:04.250: Enter
+12:09:05.207: typed '.'
+12:09:09.920: Enter
+12:09:13.125: Left
+12:09:13.721: Left
+12:09:14.837: Down
+12:09:15.043: Right
+12:09:15.210: Right
+12:09:16.575: mouse clicked
+12:09:18.762: mouse clicked
+12:09:24.980: mouse clicked
+12:09:33.502: mouse clicked
+12:09:47.085: Backspace
+12:09:47.649: typed 'e'
+12:09:48.403: Backspace
+12:09:48.646: Backspace
+12:09:49.423: typed 'e'
+12:09:49.607: typed 'x'
+12:09:50.050: typed 't'
+12:09:50.832: Enter
+12:09:53.679: typed '('
+12:09:55.105: Right
+12:10:12.808: Backspace
+12:10:13.039: typed 'e'
+12:10:13.262: typed 'x'
+12:10:16.458: Down
+12:10:16.809: Down
+12:10:17.128: Down
+12:10:17.433: Down
+12:10:17.709: Down
+12:10:17.988: Down
+12:10:19.421: Down
+12:10:19.923: Down
+12:10:19.968: Down
+12:10:20.006: Down
+12:10:20.042: Down
+12:10:20.066: Down
+12:10:20.093: Down
+12:10:20.888: Down
+12:10:21.378: Down
+12:10:21.409: Down
+12:10:21.440: Down
+12:10:21.488: Down
+12:10:21.521: Down
+12:10:21.551: Down
+12:10:21.582: Down
+12:10:21.637: Down
+12:10:21.671: Down
+12:10:21.696: Down
+12:10:24.966: mouse clicked
+12:10:41.759: Backspace
+12:14:49.851: mouse clicked
+12:14:52.113: mouse clicked
+12:14:53.526: mouse clicked
+12:22:51.109: mouse clicked
+12:22:59.804: mouse clicked
+12:23:00.499: mouse clicked
+12:23:00.676: mouse clicked
+12:23:35.709: mouse clicked
+12:24:32.142: Backspace
+12:24:32.853: Backspace
+12:24:35.825: Backspace
+12:24:36.330: Backspace
+12:24:43.110: mouse clicked
+12:24:44.140: mouse clicked
+12:24:44.712: mouse clicked
+12:24:51.027: mouse clicked
+12:24:51.179: mouse clicked
+12:24:52.742: mouse clicked
+12:24:53.947: mouse clicked
+12:24:55.284: mouse clicked
+12:25:01.100: mouse clicked
+12:29:20.649: mouse clicked
+12:29:22.505: mouse clicked
+12:29:25.376: Enter
+12:29:28.281: typed 'i'
+12:29:28.414: typed 'f'
+12:29:29.070: typed ' '
+12:29:29.578: typed '('
+12:29:30.200: typed 'i'
+12:29:31.584: typed 'n'
+12:29:31.910: typed 't'
+12:29:32.059: typed 'e'
+12:29:32.356: typed 'n'
+12:29:32.638: typed 't'
+12:29:34.743: typed '.'
+12:29:36.735: typed 'a'
+12:29:37.184: typed 'c'
+12:29:37.731: Enter
+12:29:39.385: typed '.'
+12:29:39.551: typed 'e'
+12:29:40.962: Enter
+12:30:05.639: mouse clicked
+12:30:11.174: Ctrl+C
+12:30:12.179: mouse clicked
+12:30:15.552: mouse clicked
+12:30:16.185: mouse clicked
+12:30:16.777: Ctrl+V
+12:30:20.241: mouse clicked
+12:30:28.833: mouse clicked
+12:30:29.698: typed '"'
+12:30:31.426: mouse clicked
+12:30:32.271: typed '"'
+12:30:33.556: mouse clicked
+12:30:34.394: mouse clicked
+12:30:36.232: typed '{'
+12:30:43.626: Tab
+12:30:44.167: mouse clicked
+12:30:44.862: mouse clicked
+12:30:45.476: Enter
+12:30:45.870: typed '}'
+12:30:47.184: mouse clicked
+12:31:06.855: mouse clicked
+12:31:20.794: mouse clicked
+12:35:40.650: mouse clicked
+12:35:43.101: mouse clicked
